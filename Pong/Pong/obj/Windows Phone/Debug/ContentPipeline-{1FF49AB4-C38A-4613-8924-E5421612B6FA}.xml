@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Button1tx.png</Source>
+      <Name>Button1tx</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Projekty praca inz\Skonczone\Pong wersja bez zadań dodatkowych — kopia\Pong\Pong\Pong\bin\Windows Phone\Debug\Content\Button1tx.xnb</Output>
+      <Time>2014-01-11T14:52:20.1107384+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tx1.png</Source>
+      <Name>tx1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Projekty praca inz\Skonczone\Pong wersja bez zadań dodatkowych — kopia\Pong\Pong\Pong\bin\Windows Phone\Debug\Content\tx1.xnb</Output>
+      <Time>2014-01-12T21:55:19.2429921+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tx2.png</Source>
+      <Name>tx2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Projekty praca inz\Skonczone\Pong wersja bez zadań dodatkowych — kopia\Pong\Pong\Pong\bin\Windows Phone\Debug\Content\tx2.xnb</Output>
+      <Time>2014-01-13T01:52:28.3537198+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Button2tx.png</Source>
+      <Name>Button2tx</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Projekty praca inz\Skonczone\Pong wersja bez zadań dodatkowych — kopia\Pong\Pong\Pong\bin\Windows Phone\Debug\Content\Button2tx.xnb</Output>
+      <Time>2014-01-16T18:23:12.2500311+01:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuFont.spritefont</Source>
+      <Name>MenuFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Projekty praca inz\Skonczone\Pong wersja bez zadań dodatkowych — kopia\Pong\Pong\Pong\bin\Windows Phone\Debug\Content\MenuFont.xnb</Output>
+      <Time>2014-01-11T17:28:28.9101296+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{1FF49AB4-C38A-4613-8924-E5421612B6FA}</ContentProjectGUID>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\Projekty praca inz\Skonczone\Pong wersja bez zadań dodatkowych — kopia\Pong\Pong\PongContent\</RootDirectory>
+      <LoggerRootDirectory>D:\Projekty praca inz\Skonczone\Pong wersja bez zadań dodatkowych — kopia\Pong\Pong\Pong\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Projekty praca inz\Skonczone\Pong wersja bez zadań dodatkowych — kopia\Pong\Pong\Pong\obj\Windows Phone\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Projekty praca inz\Skonczone\Pong wersja bez zadań dodatkowych — kopia\Pong\Pong\Pong\bin\Windows Phone\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2012-09-06T15:52:54+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2012-09-06T15:52:54+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2012-09-06T15:52:54+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2012-09-06T15:52:54+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2012-09-06T15:52:54+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2012-09-06T15:52:54+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-12-29T18:33:37.1756963+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

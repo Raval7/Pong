@@ -1,0 +1,49 @@
+c:\users\raval\documents\visual studio 2012\Projects\Pong\Pong\Pong\bin\Windows Phone\Debug\Pong.dll
+c:\users\raval\documents\visual studio 2012\Projects\Pong\Pong\Pong\bin\Windows Phone\Debug\Pong.pdb
+c:\users\raval\documents\visual studio 2012\Projects\Pong\Pong\Pong\obj\Windows Phone\Debug\Pong.csprojResolveAssemblyReference.cache
+c:\users\raval\documents\visual studio 2012\Projects\Pong\Pong\Pong\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\raval\documents\visual studio 2012\Projects\Pong\Pong\Pong\obj\Windows Phone\Debug\Pong.dll
+c:\users\raval\documents\visual studio 2012\Projects\Pong\Pong\Pong\obj\Windows Phone\Debug\Pong.pdb
+c:\users\raval\documents\visual studio 2012\Projects\Pong\Pong\Pong\bin\Windows Phone\Debug\AppManifest.xaml
+c:\users\raval\documents\visual studio 2012\Projects\Pong\Pong\Pong\obj\Windows Phone\Debug\WMAppManifest.xml.g
+c:\users\raval\documents\visual studio 2012\Projects\Pong\Pong\Pong\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\
+c:\users\raval\documents\visual studio 2012\Projects\Pong\Pong\Pong\bin\Windows Phone\Debug\Pong.xap
+c:\users\raval\documents\visual studio 2012\Projects\Pong\Pong\Pong\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\Raval\documents\visual studio 2012\Projects\Pong\Pong\Pong\bin\Windows Phone\Debug\Content\Button1tx.xnb
+C:\Users\Raval\documents\visual studio 2012\Projects\Pong\Pong\Pong\bin\Windows Phone\Debug\Content\Button2tx.xnb
+C:\Users\Raval\documents\visual studio 2012\Projects\Pong\Pong\Pong\bin\Windows Phone\Debug\Content\MenuFont.xnb
+C:\Users\Raval\documents\visual studio 2012\Projects\Pong\Pong\Pong\bin\Windows Phone\Debug\Content\tx1.xnb
+C:\Users\Raval\documents\visual studio 2012\Projects\Pong\Pong\Pong\bin\Windows Phone\Debug\Content\tx2.xnb
+D:\Projekty praca inz\Skonczone\Pong wersja bez zadań dodatkowych\Pong\Pong\Pong\bin\Windows Phone\Debug\Content\Button1tx.xnb
+D:\Projekty praca inz\Skonczone\Pong wersja bez zadań dodatkowych\Pong\Pong\Pong\bin\Windows Phone\Debug\Content\tx1.xnb
+D:\Projekty praca inz\Skonczone\Pong wersja bez zadań dodatkowych\Pong\Pong\Pong\bin\Windows Phone\Debug\Content\tx2.xnb
+D:\Projekty praca inz\Skonczone\Pong wersja bez zadań dodatkowych\Pong\Pong\Pong\bin\Windows Phone\Debug\Content\Button2tx.xnb
+D:\Projekty praca inz\Skonczone\Pong wersja bez zadań dodatkowych\Pong\Pong\Pong\bin\Windows Phone\Debug\Content\MenuFont.xnb
+D:\Projekty praca inz\Skonczone\Pong wersja bez zadań dodatkowych\Pong\Pong\Pong\bin\Windows Phone\Debug\Pong.dll
+D:\Projekty praca inz\Skonczone\Pong wersja bez zadań dodatkowych\Pong\Pong\Pong\bin\Windows Phone\Debug\Pong.pdb
+D:\Projekty praca inz\Skonczone\Pong wersja bez zadań dodatkowych\Pong\Pong\Pong\obj\Windows Phone\Debug\Pong.csprojResolveAssemblyReference.cache
+D:\Projekty praca inz\Skonczone\Pong wersja bez zadań dodatkowych\Pong\Pong\Pong\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Projekty praca inz\Skonczone\Pong wersja bez zadań dodatkowych\Pong\Pong\Pong\obj\Windows Phone\Debug\Pong.dll
+D:\Projekty praca inz\Skonczone\Pong wersja bez zadań dodatkowych\Pong\Pong\Pong\obj\Windows Phone\Debug\Pong.pdb
+D:\Projekty praca inz\Skonczone\Pong wersja bez zadań dodatkowych\Pong\Pong\Pong\bin\Windows Phone\Debug\AppManifest.xaml
+D:\Projekty praca inz\Skonczone\Pong wersja bez zadań dodatkowych\Pong\Pong\Pong\obj\Windows Phone\Debug\WMAppManifest.xml.g
+D:\Projekty praca inz\Skonczone\Pong wersja bez zadań dodatkowych\Pong\Pong\Pong\obj\Windows Phone\Debug\WMAppManifest.xml
+D:\Projekty praca inz\Skonczone\Pong wersja bez zadań dodatkowych\Pong\Pong\Pong\bin\Windows Phone\Debug\Pong.xap
+D:\Projekty praca inz\Skonczone\Pong wersja bez zadań dodatkowych\Pong\Pong\Pong\obj\Windows Phone\Debug\XapCacheFile.xml
+D:\Projekty praca inz\Skonczone\Pong wersja bez zadań dodatkowych — kopia\Pong\Pong\Pong\bin\Windows Phone\Debug\Content\Button1tx.xnb
+D:\Projekty praca inz\Skonczone\Pong wersja bez zadań dodatkowych — kopia\Pong\Pong\Pong\bin\Windows Phone\Debug\Content\tx1.xnb
+D:\Projekty praca inz\Skonczone\Pong wersja bez zadań dodatkowych — kopia\Pong\Pong\Pong\bin\Windows Phone\Debug\Content\tx2.xnb
+D:\Projekty praca inz\Skonczone\Pong wersja bez zadań dodatkowych — kopia\Pong\Pong\Pong\bin\Windows Phone\Debug\Content\Button2tx.xnb
+D:\Projekty praca inz\Skonczone\Pong wersja bez zadań dodatkowych — kopia\Pong\Pong\Pong\bin\Windows Phone\Debug\Content\MenuFont.xnb
+D:\Projekty praca inz\Skonczone\Pong wersja bez zadań dodatkowych — kopia\Pong\Pong\Pong\bin\Windows Phone\Debug\Pong.dll
+D:\Projekty praca inz\Skonczone\Pong wersja bez zadań dodatkowych — kopia\Pong\Pong\Pong\bin\Windows Phone\Debug\Pong.pdb
+D:\Projekty praca inz\Skonczone\Pong wersja bez zadań dodatkowych — kopia\Pong\Pong\Pong\obj\Windows Phone\Debug\Pong.csprojResolveAssemblyReference.cache
+D:\Projekty praca inz\Skonczone\Pong wersja bez zadań dodatkowych — kopia\Pong\Pong\Pong\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Projekty praca inz\Skonczone\Pong wersja bez zadań dodatkowych — kopia\Pong\Pong\Pong\obj\Windows Phone\Debug\Pong.dll
+D:\Projekty praca inz\Skonczone\Pong wersja bez zadań dodatkowych — kopia\Pong\Pong\Pong\obj\Windows Phone\Debug\Pong.pdb
+D:\Projekty praca inz\Skonczone\Pong wersja bez zadań dodatkowych — kopia\Pong\Pong\Pong\bin\Windows Phone\Debug\AppManifest.xaml
+D:\Projekty praca inz\Skonczone\Pong wersja bez zadań dodatkowych — kopia\Pong\Pong\Pong\obj\Windows Phone\Debug\WMAppManifest.xml.g
+D:\Projekty praca inz\Skonczone\Pong wersja bez zadań dodatkowych — kopia\Pong\Pong\Pong\obj\Windows Phone\Debug\WMAppManifest.xml
+D:\Projekty praca inz\Skonczone\Pong wersja bez zadań dodatkowych — kopia\Pong\Pong\Pong\bin\Windows Phone\Debug\Pong.xap
+D:\Projekty praca inz\Skonczone\Pong wersja bez zadań dodatkowych — kopia\Pong\Pong\Pong\obj\Windows Phone\Debug\XapCacheFile.xml
